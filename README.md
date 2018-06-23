@@ -2,7 +2,8 @@
 
 ### Getting Started
 
-![alt text](http://www.slate.com/content/dam/slate/blogs/future_tense/2014/05/27/googlelogo.gif.CROP.original-original.gif)
+
+<img src="https://github.com/vasanthhr/Self_Driving_Car_Automobiles_sqNeuralNet/blob/master/Autonomous_vehicles.JPG" width="500" height="400" />
 
 <br/>
 
@@ -52,4 +53,4 @@ array([[103.16771]], dtype=float32)
 
 Car needs to be turned right by Degree : 103.16771
 ```
-![alt text](http://www.slate.com/content/dam/slate/blogs/future_tense/2014/05/27/googlelogo.gif.CROP.original-original.gif)
+<img src="https://github.com/vasanthhr/Self_Driving_Car_Automobiles_sqNeuralNet/blob/master/Car_turning_slight_right.JPG" width="600" height="380" />
