@@ -8,6 +8,19 @@
 <br/>
 
 
+#### Programming Languages & Libraries
+```
+Python 3.5
+
+Keras 2.2.0
+
+TensorFlow r1.5 above
+(Google brain libraries)
+
+```
+<br/>
+
+
 #### Module Overview
 ```
 I have placed my code/package(main core part) in github repository. 
